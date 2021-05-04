@@ -3,11 +3,13 @@ An animated tag selector module for flutter projects
 
 ## Preview
 
+Preview in slow motion. 
+
 <img src="https://github.com/serifius/animated_flutter_tags/blob/main/tags.gif" width="300px">
 
 ## Usage
 
-This module depends on provider and local hero packages. 
+This module depends on provider and local hero packages.
 
 main.dart file
 ``` dart 
