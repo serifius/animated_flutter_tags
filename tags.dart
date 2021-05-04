@@ -71,9 +71,6 @@ class TagList extends ChangeNotifier {
         userTags.add(element.tagName);
       }
     });
-    print(userTags);
-
-    ///TODO: Testing, remove later
     notifyListeners();
   }
 }
