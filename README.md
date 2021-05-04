@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
           visualDensity: VisualDensity.adaptivePlatformDensity,
           textTheme: TextTheme(bodyText1: TextStyle(fontSize: 30.0)),
         ),
-        home: ProfileLanding(),
+        home: Interests(),
       ),providers: [
         ChangeNotifierProvider(create: (context) => TagList(),),
       //provider
