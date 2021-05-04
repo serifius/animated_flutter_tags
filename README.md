@@ -1,6 +1,10 @@
 # animated_flutter_tags
 An animated tag selector module for flutter projects
 
+## Preview
+
+<img src="https://github.com/serifius/animated_flutter_tags/blob/main/tags.gif" width="300px">
+
 ## Usage
 
 This module depends on provider and local hero packages. 
